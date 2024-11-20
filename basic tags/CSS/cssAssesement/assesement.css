@@ -1,0 +1,21 @@
+/* Type/Element */
+p{
+    color: red;
+}
+/* Class Selector */
+.shireesh{
+    color:aliceblue
+} 
+
+/* Id Selector */
+#ravi{
+    color: aqua;
+}
+
+div p{
+    color: blue;
+}
+
+ul>li{
+    color: brown;
+}
