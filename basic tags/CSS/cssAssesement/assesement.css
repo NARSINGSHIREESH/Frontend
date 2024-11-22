@@ -12,10 +12,10 @@ p{
     color: aqua;
 }
 
-div p{
+div  li{
     color: blue;
+    
+
 }
 
-ul>li{
-    color: brown;
-}
+
